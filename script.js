@@ -1,1 +1,1 @@
-console.log('testing');
+console.log('testing, this is a basic template layout');
