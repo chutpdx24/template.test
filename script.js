@@ -1,3 +1,5 @@
+
+
 const quoteContainer = document.getElementById('quote-container');
 const quoteText = document.getElementById('quote');
 const authorText = document.getElementById('author');
@@ -58,3 +60,5 @@ twitterBtn.addEventListener('click', tweetQuote);
 
 // On Load
 getQuotes();
+
+
